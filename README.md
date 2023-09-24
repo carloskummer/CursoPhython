@@ -1,2 +1,2 @@
 # CursoPhython
-como criar repositorios no GitHub
+-como criar repositorios no GitHub
